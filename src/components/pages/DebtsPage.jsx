@@ -1,6 +1,6 @@
 import React, { forwardRef } from "react";
-import DebtCard from "../components/card/DebtCard";
 import { Button, Form, Modal } from "react-bootstrap";
+import DebtCard from "../card/DebtCard";
 
 const DebtsPage = forwardRef(
   (
